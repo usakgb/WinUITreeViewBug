@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUITreeViewBug (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUITreeViewBug (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
